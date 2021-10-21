@@ -1,6 +1,6 @@
 package pageObjects;
 
-import ElementsMapper.HomePageElementMapper;
+import elementsMapper.HomePageElementMapper;
 import org.openqa.selenium.support.PageFactory;
 import utils.Browser;
 
